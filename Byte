@@ -1,0 +1,23 @@
+package belajar;
+
+import java.util.Scanner;
+
+public class tugas3 {
+    public static void main(String[]args){
+        byte a;
+        byte b;
+        int hasil;
+
+	Scanner keyboard = new Scanner(System.in);        
+
+        System.out.print("Input a: ");
+	a = (byte) keyboard.nextInt();
+        System.out.print("Input b: ");
+	b = (byte) keyboard.nextInt();
+        
+        hasil = a + b;
+        System.out.println("Hasil = " + hasil);
+        
+        
+    }
+}
