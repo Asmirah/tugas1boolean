@@ -1,0 +1,12 @@
+package belajar;
+public class tugas6 {
+     public static void main(String[]args){
+        long a = 22299999;
+        long b = 22232536;
+        long hasil;
+        hasil = a * b;
+        
+        System.out.println("Hasil penggunaan tipe data long "+hasil);
+        
+    }
+}
