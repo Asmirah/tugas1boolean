@@ -1,2 +1,2 @@
-# tugas1boolean
+# tugas
 tugas mahasiswa unsul-bar
