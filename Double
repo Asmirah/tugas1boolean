@@ -1,0 +1,12 @@
+package belajar;
+public class tugas8 {
+    public static void main(String[]args){
+        double a, b, hasil;
+        a = 78.89;
+        b = 27.01;
+        hasil = a * b;
+        
+        System.out.println("Hasil penggunaan tipe data double "+hasil);
+        
+    }
+}
