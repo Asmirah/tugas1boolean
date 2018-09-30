@@ -1,0 +1,12 @@
+package belajar;
+public class tugas7 {
+   public static void main(String[]args){
+        float a, b, hasil;
+        a = 30;
+        b = 30000;
+        
+        hasil = a * b + b - a;
+        System.out.println("Hasil dari tipe data float "+hasil);
+        
+    }
+}
